@@ -1,1 +1,1 @@
-print("Hello Word")
+print('попа каки')
